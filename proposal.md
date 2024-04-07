@@ -17,7 +17,8 @@
 Sistema encargado de crear torneos de Counter Strike, cualquier jugador podrá crear su equipo con otros usuarios, en caso de no tenerlo se podrá buscar equipos en los cuales falten integrantes. Los equipos podrán anotarse a los torneos que deseen siempre y cuando cumpla con los requisitos de estos. Cada jugador contara con un nivel con respecto a su habilidad de juego, rescatado de las partidas jugadas en torneos creados por el sistema.
 
 ### Modelo
-![imagen del modelo](https://drive.google.com/file/d/1Zqmu_UvQ5TCOU8EIIrESPK4w-dcDd-Yw/view?usp=sharing)
+![image](https://github.com/BenjaPonzano/tp/assets/164565109/904aa1ba-7156-4d9a-a429-537a68cd2ffc)
+
 
 
 ## Alcance Funcional 
