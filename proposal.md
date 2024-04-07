@@ -33,14 +33,14 @@ Regularidad:
 |CRUD simple|1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugador|
 |CRUD dependiente|1. CRUD Equipo {depende de} CRUD Jugador<br>2. CRUD Torneo {depende de} CRUD CreadordeTorneo|
 |Listado<br>+<br>detalle| 1.Listado de torneos filtrado por un nivel necesario, muestra hora y fecha de inicio, hora fin de ingreso y cupo disponible=> detalle CRUD Torneo<br> 2.Listado de equipos filtrado por numero de participantes, muestra nombre de equipo y nivel promedio=> detalle CRUD Equipo
-|CUU/Epic|1. Crear equipo<br>2. Anotarse a torneo|
+|CUU/Epic|1. Crear equipo<br>2. Buscar Torneo del nivel del equipo e inscribirse|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugadoor<br>4. CRUD Creador de torneo<br>5. CRUD Sistema<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugadoor<br>4. CRUD Creador de torneo<br>5. CRUD Sistema<br>6. CRUD ...<br>7. CRUD ...|
+|CUU/Epic|1. Crear equipo<br>2. RBuscar Torneo del nivel del equipo e inscribirse<br>3. Enviar solicitud de ingreso a un equipo|
 
 
 ### Alcance Adicional Voluntario
