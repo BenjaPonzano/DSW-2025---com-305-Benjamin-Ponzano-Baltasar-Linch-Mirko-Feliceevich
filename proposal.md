@@ -38,6 +38,6 @@ Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugadoor<br>4. CRUD Creador de torneo<br>5. CRUD Sistema<br>6. CRUD ...<br>7. CRUD ...|
-|CUU/Epic|1. Crear equipo<br>2. RBuscar Torneo del nivel del equipo e inscribirse<br>3. Enviar solicitud de ingreso a un equipo|
+|CUU/Epic|1. Crear equipo<br>2.Buscar Torneo del nivel del equipo e inscribirse<br>3. Enviar solicitud de ingreso a un equipo|
 
 
