@@ -17,7 +17,7 @@
 Sistema encargado de crear torneos de Counter Strike, cualquier jugador podrá crear su equipo con otros usuarios, en caso de no tenerlo se podrá buscar equipos en los cuales falten integrantes. Los equipos podrán anotarse a los torneos que deseen siempre y cuando cumpla con los requisitos de estos. Cada jugador contara con un nivel con respecto a su habilidad de juego, rescatado de las partidas jugadas en torneos creados por el sistema.
 
 ### Modelo
-![image](https://github.com/BenjaPonzano/tp/assets/164565109/904aa1ba-7156-4d9a-a429-537a68cd2ffc)
+![image](https://github.com/BenjaPonzano/tp/assets/164565109/08c5b23e-e60d-4bac-b0a7-421d774baff3)
 
 
 
@@ -30,16 +30,16 @@ Sistema encargado de crear torneos de Counter Strike, cualquier jugador podrá c
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugador|
+|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Jugador<br>2. CRUD Torneo {depende de} CRUD CreadordeTorneo|
+|Listado<br>+<br>detalle| 1.Listado de torneos filtrado por un nivel necesario, muestra hora y fecha de inicio, hora fin de ingreso y cupo disponible=> detalle CRUD Torneo<br> 2.Listado de equipos filtrado por numero de participantes, muestra nombre de equipo y nivel promedio=> detalle CRUD Equipo
+|CUU/Epic|1. Crear equipo<br>2. Anotarse a torneo|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
+|CRUD |1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugadoor<br>4. CRUD Creador de torneo<br>5. CRUD Sistema<br>6. CRUD Empleado<br>7. CRUD Cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
 
 
