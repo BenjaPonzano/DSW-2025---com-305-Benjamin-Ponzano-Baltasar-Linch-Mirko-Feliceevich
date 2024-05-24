@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* -	51939 - Ponzano Deluca, Benjamin - com 304
+* -	51939 - Ponzano Deluca, Benjamin - com 303
   -	51655 - Linch, Baltasar Antonio - com 305
   -	50715 - Felicevich, Mirko - com 303
 
