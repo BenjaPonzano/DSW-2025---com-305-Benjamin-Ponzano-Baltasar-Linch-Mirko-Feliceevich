@@ -2,9 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* -	51939 - Ponzano Deluca, Benjamin - com 303
-  -	51655 - Linch, Baltasar Antonio - com 305
-  -	50715 - Felicevich, Mirko - com 303
+* -	51939 - Ponzano Deluca, Benjamin 
+  -	51655 - Linch, Baltasar Antonio 
+  -	50715 - Felicevich, Mirko 
 
 
 ### Repositorios
@@ -14,7 +14,7 @@
 
 ## Tema
 ### Descripción
-Sistema encargado de crear torneos de Counter Strike, cualquier jugador podrá crear su equipo con otros usuarios, en caso de no tenerlo se podrá buscar equipos en los cuales falten integrantes. Los equipos podrán anotarse a los torneos que deseen siempre y cuando cumpla con los requisitos de estos. Cada jugador contara con un nivel con respecto a su habilidad de juego, rescatado de las partidas jugadas en torneos creados por el sistema.
+El proyecto consiste en desarrollar una tienda online especializada en la venta de camisetas de fútbol, tanto retro como actuales, de distintos clubes y selecciones. El sistema permitirá visualizar el catálogo, filtrar camisetas por club, país, época, o tipo (retro/actual), agregar productos al carrito, realizar compras y gestionar usuarios administradores para la carga y edición de productos.
 
 ### Modelo
 ![image](https://github.com/BenjaPonzano/tp/assets/164565109/08c5b23e-e60d-4bac-b0a7-421d774baff3)
