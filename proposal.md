@@ -17,7 +17,7 @@
 El proyecto consiste en desarrollar una tienda online especializada en la venta de camisetas de fútbol, tanto retro como actuales, de distintos clubes y selecciones. El sistema permitirá visualizar el catálogo, filtrar camisetas por club, país, época, o tipo (retro/actual), agregar productos al carrito, realizar compras y gestionar usuarios administradores para la carga y edición de productos.
 
 ### Modelo
-![image](https://github.com/BenjaPonzano/tp/assets/164565109/08c5b23e-e60d-4bac-b0a7-421d774baff3)
+[![image.png](https://i.postimg.cc/J7N9GPkP/image.png)](https://postimg.cc/JthTF3Kk)
 
 
 
