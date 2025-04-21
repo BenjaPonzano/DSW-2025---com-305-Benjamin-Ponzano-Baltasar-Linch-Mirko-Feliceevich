@@ -28,8 +28,8 @@ El proyecto consiste en desarrollar una tienda online especializada en la venta 
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugador|
-|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Jugador<br>2. CRUD Torneo {depende de} CRUD CreadordeTorneo|
+|CRUD simple|1. CRUD Camiseta<br>2. CRUD Categoria<br>3. CRUD Usuario|
+|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD Categoria<br>|
 |Listado<br>+<br>detalle| 1.Listado de torneos filtrado por un nivel necesario, muestra hora y fecha de inicio, hora fin de ingreso y cupo disponible=> detalle CRUD Torneo<br> 2.Listado de equipos filtrado por numero de participantes, muestra nombre de equipo y nivel promedio=> detalle CRUD Equipo
 |CUU/Epic|1. Crear equipo<br>2. Buscar Torneo del nivel del equipo e inscribirse|
 
