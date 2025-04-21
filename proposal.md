@@ -38,6 +38,6 @@ Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Camiseta<br>2. CRUD TipoProducto<br>3. CRUD Usuario<br>4. CRUD Direccion de envio<br>5. CRUD Precio<br>6. CRUD ...<br>7. CRUD ...|
-|CUU/Epic|1. Cliente agrega camisetas al carrito<br>2.Cliente realiza una compra<br>3. 3.Admin carga o edita productos|
+|CUU/Epic|1. Cliente agrega camisetas al carrito<br>2.Cliente realiza una compra<br>3.Admin carga o edita productos|
 
 
