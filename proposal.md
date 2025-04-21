@@ -29,15 +29,15 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Camiseta<br>2. CRUD Categoria<br>3. CRUD Usuario|
-|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD Categoria<br>|
-|Listado<br>+<br>detalle| 1.Listado de torneos filtrado por un nivel necesario, muestra hora y fecha de inicio, hora fin de ingreso y cupo disponible=> detalle CRUD Torneo<br> 2.Listado de equipos filtrado por numero de participantes, muestra nombre de equipo y nivel promedio=> detalle CRUD Equipo
-|CUU/Epic|1. Crear equipo<br>2. Buscar Torneo del nivel del equipo e inscribirse|
+|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD TipoProducto<br>CRUD Camiseta {depende de}  Club|
+|Listado<br>+<br>detalle| 1.Lista de camisetas filtradas por club, país o época<br> 2.Detalle de una camiseta (foto, descripción, precio, etc.)
+|CUU/Epic|1. Cliente agrega camisetas al carrito<br>2. Cliente realiza una compra<br>|
 
 
 Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Torneo<br>2. CRUD Equipo<br>3. CRUD Jugadoor<br>4. CRUD Creador de torneo<br>5. CRUD Sistema<br>6. CRUD ...<br>7. CRUD ...|
-|CUU/Epic|1. Crear equipo<br>2.Buscar Torneo del nivel del equipo e inscribirse<br>3. Enviar solicitud de ingreso a un equipo|
+|CRUD |1. CRUD Camiseta<br>2. CRUD TipoProducto<br>3. CRUD Usuario<br>4. CRUD Direccion de envio<br>5. CRUD Precio<br>6. CRUD ...<br>7. CRUD ...|
+|CUU/Epic|1. Cliente agrega camisetas al carrito<br>2.Cliente realiza una compra<br>3. 3.Admin carga o edita productos|
 
 
