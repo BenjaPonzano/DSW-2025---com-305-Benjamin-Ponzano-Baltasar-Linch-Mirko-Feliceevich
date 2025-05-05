@@ -48,7 +48,7 @@ Adicionales para Aprobación:
 |:-|:-|
 |Listados |1. Lista de camisetas filtradas por club, país o época <br>2. Historial de compra de Usuario <br>3. Lista de distribuidores <br>4. Lista de Usuarios filtrado por Nombre y Apellido|
 |CUU/Epic|1. Cargar camisetas <br>2. Realizar compra <br>3. Eliminar Usuario|
-|Otros|1. Eliminar Camiseta|
+|Otros|1. Eliminar Camiseta <br>2. Agregar reseña de camiseta|
 
 
 
