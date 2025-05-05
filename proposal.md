@@ -29,15 +29,15 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Distribuidor<br>2. CRUD TipoCamiseta<br>3. CRUD Usuario|
-|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD TipoCamiseta<br>CRUD Compra {depende de}  Usuario/Camiseta|
+|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD TipoCamiseta<br>2. CRUD Compra {depende de}  Usuario/Camiseta|
 |Listado<br>+<br>detalle| 1.Lista de camisetas filtradas por club, país o época<br> 2.Historial de compra de Usuario
-|CUU/Epic|1. Cargar camisetas<br>2. Cliente realiza una compra<br>|
+|CUU/Epic|1. Cargar camisetas<br>2. Realizar compra<br>|
 
 
 Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Camiseta<br>2. CRUD TipoProducto<br>3. CRUD Usuario<br>4. CRUD Distribuidor<br>5. CRUD Precio<br>6. CRUD Reseña<br>7. CRUD Compra|
-|CUU/Epic|1. Cargar camisetas<br>2.Cliente realiza una compra<br>3.Cancelar compra|
+|CUU/Epic|1. Cargar camisetas<br>2.Realizar compra<br>3.Cancelar compra|
 
 
