@@ -28,8 +28,8 @@ El proyecto consiste en desarrollar una tienda online especializada en la venta 
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Camiseta<br>2. CRUD Categoria<br>3. CRUD Usuario|
-|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD TipoProducto<br>CRUD Camiseta {depende de}  Club|
+|CRUD simple|1. CRUD Camiseta<br>2. CRUD TipoCamiseta<br>3. CRUD Usuario|
+|CRUD dependiente|1. CRUD Camiseta {depende de} CRUD TipoCamiseta<br>CRUD Camiseta {depende de}  Club|
 |Listado<br>+<br>detalle| 1.Lista de camisetas filtradas por club, país o época<br> 2.Detalle de una camiseta (foto, descripción, precio, etc.)
 |CUU/Epic|1. Cliente agrega camisetas al carrito<br>2. Cliente realiza una compra<br>|
 
