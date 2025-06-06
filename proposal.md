@@ -9,7 +9,7 @@
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](https://github.com/BenjaPonzano/tp-backend-dsw.git)
+* [backend app]([https://github.com/BenjaPonzano/tp-backend-dsw.git](https://github.com/BenjaPonzano/TP-backend-dsw-2025))
 
 
 ## Tema
